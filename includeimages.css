@@ -1,0 +1,52 @@
+#c1 .categorie:nth-child(2){background-image: url('https://raw.githubusercontent.com/Brolyte/Orbis-Fortunae/main/lois.jpg');}
+#c1 .categorie:nth-child(3){background-image: url('https://raw.githubusercontent.com/Brolyte/Orbis-Fortunae/main/generalites.jpg');}
+#c1 .categorie:nth-child(4){background-image: url('https://raw.githubusercontent.com/Brolyte/Orbis-Fortunae/main/annexes.jpg');}
+#c1 .categorie:nth-child(5){background-image: url('https://raw.githubusercontent.com/Brolyte/Orbis-Fortunae/main/systeme-jeu.jpg');}
+#c1 .categorie:nth-child(6){background-image: url('https://raw.githubusercontent.com/Brolyte/Orbis-Fortunae/main/zone-admin.jpg');}
+#c4 .categorie:nth-child(2){background-image: url('https://raw.githubusercontent.com/Brolyte/Orbis-Fortunae/main/persos-valides.jpg');}
+#c4 .categorie:nth-child(3){background-image: url('https://raw.githubusercontent.com/Brolyte/Orbis-Fortunae/main/fiche-en-cours.jpg');}
+#c4 .categorie:nth-child(4){background-image: url('https://raw.githubusercontent.com/Brolyte/Orbis-Fortunae/main/predefinis.jpg');}
+#c4 .categorie:nth-child(5){background-image: url('https://raw.githubusercontent.com/Brolyte/Orbis-Fortunae/main/gestion-personnage.jpg');}
+#c5 .categorie:nth-child(2){background-image: url('https://raw.githubusercontent.com/Brolyte/Orbis-Fortunae/main/nouvelles.jpg');}
+#c5 .categorie:nth-child(3){background-image: url('https://raw.githubusercontent.com/Brolyte/Orbis-Fortunae/main/orbis-club.jpg');}
+#c5 .categorie:nth-child(4){background-image: url('https://raw.githubusercontent.com/Brolyte/Orbis-Fortunae/main/partenariat.jpg');}
+#c5 .categorie:nth-child(5){background-image: url('https://raw.githubusercontent.com/Brolyte/Orbis-Fortunae/main/questions-suggestions.jpg');}
+#c6 .categorie:nth-child(2){background-image: url('https://raw.githubusercontent.com/Brolyte/Orbis-Fortunae/main/salon-admin.jpg');}
+
+/*LeCoeur*/
+#f23 .categorie:nth-child(2){background-image: url('https://raw.githubusercontent.com/Brolyte/Orbis-Fortunae/main/nouvelles.jpg');}
+#f23 .categorie:nth-child(3){background-image: url('https://raw.githubusercontent.com/Brolyte/Orbis-Fortunae/main/orbis-club.jpg');}
+#f23 .categorie:nth-child(4){background-image: url('https://raw.githubusercontent.com/Brolyte/Orbis-Fortunae/main/partenariat.jpg');}
+#f23 .categorie:nth-child(5){background-image: url('https://raw.githubusercontent.com/Brolyte/Orbis-Fortunae/main/questions-suggestions.jpg');}
+/*Gobelinville*/
+#f4 .categorie:nth-child(2){background-image: url('https://raw.githubusercontent.com/Brolyte/Orbis-Fortunae/main/nouvelles.jpg');}
+#f4 .categorie:nth-child(3){background-image: url('https://raw.githubusercontent.com/Brolyte/Orbis-Fortunae/main/orbis-club.jpg');}
+#f4 .categorie:nth-child(4){background-image: url('https://raw.githubusercontent.com/Brolyte/Orbis-Fortunae/main/partenariat.jpg');}
+#f4 .categorie:nth-child(5){background-image: url('https://raw.githubusercontent.com/Brolyte/Orbis-Fortunae/main/questions-suggestions.jpg');}
+/*Carrefour*/
+#f25 .categorie:nth-child(2){background-image: url('https://raw.githubusercontent.com/Brolyte/Orbis-Fortunae/main/nouvelles.jpg');}
+#f25 .categorie:nth-child(3){background-image: url('https://raw.githubusercontent.com/Brolyte/Orbis-Fortunae/main/orbis-club.jpg');}
+#f25 .categorie:nth-child(4){background-image: url('https://raw.githubusercontent.com/Brolyte/Orbis-Fortunae/main/partenariat.jpg');}
+#f25 .categorie:nth-child(5){background-image: url('https://raw.githubusercontent.com/Brolyte/Orbis-Fortunae/main/questions-suggestions.jpg');}
+/*Horizon*/
+#f24 .categorie:nth-child(2){background-image: url('https://raw.githubusercontent.com/Brolyte/Orbis-Fortunae/main/nouvelles.jpg');}
+#f24 .categorie:nth-child(3){background-image: url('https://raw.githubusercontent.com/Brolyte/Orbis-Fortunae/main/orbis-club.jpg');}
+#f24 .categorie:nth-child(4){background-image: url('https://raw.githubusercontent.com/Brolyte/Orbis-Fortunae/main/partenariat.jpg');}
+#f24 .categorie:nth-child(5){background-image: url('https://raw.githubusercontent.com/Brolyte/Orbis-Fortunae/main/questions-suggestions.jpg');}
+/*Entrailles*/
+#f26 .categorie:nth-child(2){background-image: url('https://raw.githubusercontent.com/Brolyte/Orbis-Fortunae/main/nouvelles.jpg');}
+#f26 .categorie:nth-child(3){background-image: url('https://raw.githubusercontent.com/Brolyte/Orbis-Fortunae/main/orbis-club.jpg');}
+#f26 .categorie:nth-child(4){background-image: url('https://raw.githubusercontent.com/Brolyte/Orbis-Fortunae/main/partenariat.jpg');}
+#f26 .categorie:nth-child(5){background-image: url('https://raw.githubusercontent.com/Brolyte/Orbis-Fortunae/main/questions-suggestions.jpg');}
+
+
+#c2 .categorie-liens-sous-forum{width: 200px;position:relative;float:right;bottom: 80px;left:125px;}
+#c3 .categorie-liens-sous-forum{width: 200px;position:relative;float:right;bottom: 100px;left:175px;}
+#c2 .categorie:nth-child(2){background-image: url('https://raw.githubusercontent.com/Brolyte/Orbis-Fortunae/main/lecoeur.jpg');}
+#c2 .categorie:nth-child(3){background-image: url('https://raw.githubusercontent.com/Brolyte/Orbis-Fortunae/main/gobelinville.jpg');}
+#c2 .categorie:nth-child(4){background-image: url('https://raw.githubusercontent.com/Brolyte/Orbis-Fortunae/main/lois.jpg');}
+#c2 .categorie:nth-child(5){background-image: url('https://raw.githubusercontent.com/Brolyte/Orbis-Fortunae/main/horizon.jpg');}
+#c2 .categorie:nth-child(6){background-image: url('https://raw.githubusercontent.com/Brolyte/Orbis-Fortunae/main/les-entrailles.jpg');}
+#c3 .categorie:nth-child(2){background-image: url('https://raw.githubusercontent.com/Brolyte/Orbis-Fortunae/main/chateau-ambremer.jpg');}
+#c3 .categorie:nth-child(3){background-image: url('https://raw.githubusercontent.com/Brolyte/Orbis-Fortunae/main/zone-onirique.jpg');}
+#c3 .categorie:nth-child(4){background-image: url('https://raw.githubusercontent.com/Brolyte/Orbis-Fortunae/main/zone-chaotique.jpg');}
